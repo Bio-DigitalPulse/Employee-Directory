@@ -1,0 +1,22 @@
+.form-group {
+    justify-content: center;
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #2CBBD8;
+    border: underline;
+    box-shadow: none;
+}
+
+.btn-primary:hover {
+    color: #b8b3b3;
+    background-color: #eef1f5;
+    cursor: pointer;
+}
