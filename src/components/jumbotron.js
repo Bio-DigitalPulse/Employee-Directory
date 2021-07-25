@@ -10,7 +10,7 @@ function Jumbotron() {
             <i className="fas fa-address-book"></i>{" "}
             <b>Employee-Directory</b>
           </h1>
-          <p className="lead">Search alphabetically by first or last name.</p>
+          <p className="lead">Search alphabetically by selecting first or last name.</p>
         </div>
       </div>
     </div>

@@ -80,7 +80,7 @@ class Table extends React.Component {
         />
 
         <div className="table-responsive">
-          <table className="table table-striped table-resposive text-center table-hover">
+          <table className="table table-striped text-center table-hover">
             <thead>
               <tr>
                 <th>Image</th>
